@@ -1,0 +1,6 @@
+modelo\entidad\Editorial.class
+modelo\entidad\Libro.class
+prueba\_01_PruebaAltaAutores.class
+modelo\entidad\Libreria.class
+modelo\entidad\Autor.class
+prueba\AplicacionLibrerias.class
